@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/back-end-nodejs.iml" filepath="$PROJECT_DIR$/back-end-nodejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front-end-angular.iml" filepath="$PROJECT_DIR$/front-end-angular.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-app.iml" filepath="$PROJECT_DIR$/.idea/microservice-app.iml" />
     </modules>
   </component>
